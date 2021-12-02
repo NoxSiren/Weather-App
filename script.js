@@ -1,4 +1,4 @@
-// API
+// API Key
 const api = '461861a05e28139092c2782f70edfcab';
 
 const iconImg = document.getElementById('weatherIcon');
