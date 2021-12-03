@@ -15,12 +15,12 @@ body{
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    background: rgb(251, 242, 133);
+    background: rgb(133, 251, 159);
     background: radial-gradient(
       circle,
-      rgba(251, 242, 133, 0.6334908963585435) 0%,
-      rgba(224, 196, 91, 0.8407738095238095) 35%,
-      rgba(230, 224, 113, 1) 100%
+      rgba(133, 233, 251, 0.633) 0%,
+      rgba(171, 91, 224, 0.841) 35%,
+      rgb(251, 133, 133) 100%
     );
   }
 
@@ -42,7 +42,7 @@ body{
 }
 
 .circle{
-    background-color: black;
+    background-color: rgba(0, 0, 0, 0.158);
     border-radius:50px;
     height: 15px;
     width: 15px;
